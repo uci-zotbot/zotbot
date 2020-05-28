@@ -1,14 +1,34 @@
-# GolemGlobe
+## About ZotBot
 
-![](https://www.ics.uci.edu/~wschallo/golemGlobe.png)
+ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020 competition team. ZotBot is using artificial intelligence to create a social bot that can communicate with people on current events and popular topics.
 
-## What is Golem Globe?
+### The Alexa Prize Competition
 
-Golem Globe, is a modified implementation of Wumpus World in Minecraft. The world is a 10x10 grid map that contains a moster, gold and any number of pits. The agent only has observation of the current bock it is on, in other words, it does not know where the gold, pits, or monster is located on the map. However when the agent is adjacent to a pit it feels/observes a breeze, and when when it is adjacent to the monster it smells a stench and when it is on the block that has the gold it feels glitter. To win the game the agent needs to navigate through the map to find the gold.  
+"The Alexa Prize Socialbot Grand Challenge is a competition sponsored by Amazon to advance the field of conversation artificial intelligence. Each univesity team is tasked with developing a social-bot that can hold a coherent and engaging conversation on a range of topics with real people. 
+Each team has received $250,000 in research funding to provide students with the valuable opportunity to work on an engineering project that's directly accessible by hundreds of thousands of public users. Teams also have access to the Alexa customer reviews to help them make decisions about the complex software engineering pipelines.
 
-## How does the agent work? 
-The agent navigates through the map by utilizing a reinforced learning algorithm incorporating a Q-Table to store observations. The agent remembers observations from previous maps and uses those observations of previous maps along with the Q-table from the current map to learn and choose what step to take next. 
+## Meet the ZotBot Team
 
+The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
+William Schallock - project manager
+Claire Urata - project manager
+Ananth G
+Arseny Moskvichev
+Daniel Agress
+Dheeru Dua
+Steven Hu
+Michelle Liang
+Xuan Liu
+Yao Du
+Yoshitomo Matsubara
+Jeanette Mai - chief marketing officer
+Sameer Singh - advisor
 
-For more information please see our status page:
-https://soberanc.github.io/GolemGlobe/status.html
+### News
+https://developer.amazon.com/alexaprize
+https://www.cs.uci.edu/zotbot-competing-in-the-alexa-prize-socialbot-grand-challenge/
+
+### Contact Us
+
+If you have questions, feel free to email us at: info@alexa-at-uci.org
+Follow our [Facebook](https://www.facebook.com/alexaucirvine/) and [Twitter](https://twitter.com/alexaucirvine) to stay updated.

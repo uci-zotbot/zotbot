@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Golem Globe
+title: zotbot
 ---
 
 # Golem Globe

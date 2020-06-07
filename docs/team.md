@@ -22,24 +22,24 @@ Sameer Singh - advisor
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="William" style="width:100%">
-      <div class="container">
-        <h2>William Schallock</h2>
-        <p class="title">Project Manager</p>
-        <p>lorem ipsum (PhD)</p>
-        <p>lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
       <img src="img1.jpg" alt="Claire" style="width:100%">
       <div class="container">
         <h2>Claire Urata</h2>
         <p class="title">Project Manager</p>
         <p>4th year Mathematics</p>
         <p>I enjoyed working on this because it was a really cool project idea that allowed me to work with many people from various academic fields, and it couldn't have happened without Will or the incredible team we put together. This has truly been a remarkable research and communication experience that I will carry with me always.</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="img1.jpg" alt="William" style="width:100%">
+      <div class="container">
+        <h2>William Schallock</h2>
+        <p class="title">Project Manager</p>
+        <p>lorem ipsum (PhD)</p>
+        <p>lorem ipsum.</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>

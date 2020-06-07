@@ -3,7 +3,7 @@ layout: default
 title: Our Team
 ---
 
-## Meet the ZotBot Team
+# Meet the ZotBot Team
 
 The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
 William Schallock - project manager

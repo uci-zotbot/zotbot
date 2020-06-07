@@ -170,7 +170,7 @@ This page is for our team members
     <div class="card">
       <img src="img1.jpg" alt="Sameer" style="width:100%">
       <div class="container">
-        <h2>Sameer Singh</h2>
+        <h2>Sameer Singh PhD</h2>
         <p class="title">Advisor</p>
         <p>Assistant Professor of Computer Science at the University of California, Irvine</p>
         <p><button class="button">Contact</button></p>

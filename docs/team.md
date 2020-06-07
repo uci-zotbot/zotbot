@@ -19,7 +19,6 @@ Yao Du
 Yoshitomo Matsubara
 Jeanette Mai - chief marketing officer
 Sameer Singh - advisor
-This page is for our team members
 <div class="row">
   <div class="column">
     <div class="card">

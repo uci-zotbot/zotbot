@@ -98,7 +98,7 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Lyuyang (Steven) Hu</h2>
         <p class="title">Team Member</p>
-        <p>4th Year Computer Science and Engineering Major</p>
+        <p>B.S. Computer Science and Engineering Major 2020</p>
         <p>"Zotbot and Alexa Prize gave me a unique opportunity to design and build software systems for thousands of real users with the latest language and cloud technologies. I had an amazing team and the freedom to experiment with various creative ideas. These are everything a software engineer could ever ask for. And most importantly, it is a fun project!"</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -110,8 +110,7 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Michelle Liang</h2>
         <p class="title">Team Member</p>
-        <p>B.S. in Computer Science and B.A. in Business Economics
-  Class of 2021</p>
+        <p>B.S. Computer Science and B.A. Business Economics 2021</p>
         <p>"I enjoyed working on this project because of our team's wide variety of backgrounds. I felt like I could learn so much from the other members even though we all had our own specific roles."</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -135,7 +134,7 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Yao Du</h2>
         <p class="title">Team Member</p>
-        <p>4th Year Informatics (PhD)</p>
+        <p>Ph.D. Informatics 2020</p>
         <p>Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers.</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -159,7 +158,7 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Jeanette Mai</h2>
         <p class="title">Chief Marketing Officer</p>
-        <p>3rd Year Business Administration Major</p>
+        <p>B.A. Business Administration</p>
         <p>Memory lorem ipsum.</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -169,7 +168,7 @@ Sameer Singh - advisor
     <div class="card">
       <img src="img1.jpg" alt="Sameer" style="width:100%">
       <div class="container">
-        <h2>Sameer Singh PhD</h2>
+        <h2>Sameer Singh Ph.D.</h2>
         <p class="title">Advisor</p>
         <p>Assistant Professor of Computer Science at the University of California, Irvine</p>
         <p><button class="button">Contact</button></p>

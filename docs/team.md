@@ -26,7 +26,7 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Claire Urata</h2>
         <p class="title">Project Manager</p>
-        <p>Fourth Year Mathematics Major</p>
+        <p>B.S. Mathematics 2020</p>
         <p>I enjoyed working on this because it was a really cool project idea that allowed me to work with many people from various academic fields, and it couldn't have happened without Will or the incredible team we put together. This has truly been a remarkable research and communication experience that I will carry with me always.</p>
         <p><button class="button">Contact</button></p>
       </div>

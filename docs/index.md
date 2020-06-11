@@ -20,4 +20,4 @@ https://www.cs.uci.edu/zotbot-competing-in-the-alexa-prize-socialbot-grand-chall
 ### Contact Us
 
 If you have questions, feel free to email us at info@alexa-at-uci.org
-Follow our [Facebook](https://www.facebook.com/alexaucirvine/) and [Twitter](https://twitter.com/alexaucirvine) to stay updated.
+<p>Follow our [Facebook](https://www.facebook.com/alexaucirvine/) and [Twitter](https://twitter.com/alexaucirvine) to stay updated.</p>

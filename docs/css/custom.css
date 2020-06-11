@@ -12,7 +12,25 @@ html {
   margin-bottom: 16px;
   padding: 0 8px;
 }
+/* unvisited link */
+a:link {
+  color: red;
+}
 
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
   .column {

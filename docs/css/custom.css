@@ -74,7 +74,7 @@ code {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #232F3E;
   overflow: hidden;
 }
 
@@ -97,7 +97,7 @@ code {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #31C4F3;
+  background-color: #00A7CE;
   color: white;
 }
 

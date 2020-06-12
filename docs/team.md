@@ -6,19 +6,6 @@ title: Our Team
 # Meet the ZotBot Team
 
 The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
-William Schallock - project manager
-Claire Urata - project manager
-Ananth G
-Arseny Moskvichev
-Daniel Agress
-Dheeru Dua
-Steven Hu
-Michelle Liang
-Xuan Liu
-Yao Du
-Yoshitomo Matsubara
-Jeanette Mai - chief marketing officer
-Sameer Singh - advisor
 <div class="row">
   <div class="column">
     <div class="card">
@@ -27,7 +14,7 @@ Sameer Singh - advisor
         <h2>Claire Urata</h2>
         <p class="title">Project Manager</p>
         <p>B.S. Mathematics 2020</p>
-        <p>I enjoyed working on this because it was a really cool project idea that allowed me to work with many people from various academic fields, and it couldn't have happened without Will or the incredible team we put together. This has truly been a remarkable research and communication experience that I will carry with me always.</p>
+        <p>"I enjoyed working on this because it was a really cool project idea that allowed me to work with many people from various academic fields, and it couldn't have happened without Will or the incredible team we put together. This has truly been a remarkable research and communication experience that I will carry with me always."</p>
       </div>
     </div>
   </div>
@@ -48,8 +35,6 @@ Sameer Singh - advisor
       <div class="container">
         <h2>Ananth G</h2>
         <p class="title">Team Member</p>
-        <p>year lorem ipsum</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>
@@ -60,7 +45,6 @@ Sameer Singh - advisor
         <h2>Arseny Moskvichev</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Cognitive Science 2021</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>
@@ -71,7 +55,6 @@ Sameer Singh - advisor
         <h2>Daniel Agress</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Mathematics Candidate</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>
@@ -82,7 +65,6 @@ Sameer Singh - advisor
         <h2>Dheeru Dua</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Artificial Intelligence 2022</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>
@@ -115,7 +97,6 @@ Sameer Singh - advisor
         <h2>Xuan Liu</h2>
         <p class="title">Team Member</p>
         <p>M.S. Statistics 2020</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>
@@ -137,7 +118,6 @@ Sameer Singh - advisor
         <h2>Yoshitomo Matsubara</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Computer Science</p>
-        <p>Memory lorem ipsum.</p>
       </div>
     </div>
   </div>

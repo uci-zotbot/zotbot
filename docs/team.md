@@ -9,7 +9,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/Team Members/Claire Urata.jpg" alt="Claire" style="width:100%">
+      <img src="/Team Members/Claire Urata.jpg" alt="Claire" style="width:33%">
       <div class="container">
         <h2>Claire Urata</h2>
         <p class="title">Project Manager</p>
@@ -135,7 +135,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Sameer" style="width:100%">
+      <img src="img1.jpg" alt="Sameer" style="width:33%">
       <div class="container">
         <h2>Sameer Singh Ph.D.</h2>
         <p class="title">Advisor</p>

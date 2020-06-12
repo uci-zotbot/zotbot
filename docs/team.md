@@ -85,7 +85,8 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       <div class="container">
         <h2>Michelle Liang</h2>
         <p class="title">Team Member</p>
-        <p>B.S. Computer Science and B.A. Business Economics 2021</p>
+        <p>B.S. Computer Science and </p>
+        <p>B.A. Business Economics 2021</p>
         <p>"I enjoyed working on this project because of our team's wide variety of backgrounds. I felt like I could learn so much from the other members even though we all had our own specific roles."</p>
       </div>
     </div>

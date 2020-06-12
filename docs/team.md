@@ -108,7 +108,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
         <h2>Yao Du</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Informatics 2020</p>
-        <p>Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers.</p>
+        <p>"Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers."</p>
       </div>
     </div>
   </div>

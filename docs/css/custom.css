@@ -90,11 +90,6 @@ body > .container {
 code {
   font-size: 80%;
 }
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #232F3E;
-  overflow: hidden;
-}
 
 /* Style the links inside the navigation bar */
 .topnav a {

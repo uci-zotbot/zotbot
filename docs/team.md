@@ -28,7 +28,6 @@ Sameer Singh - advisor
         <p class="title">Project Manager</p>
         <p>B.S. Mathematics 2020</p>
         <p>I enjoyed working on this because it was a really cool project idea that allowed me to work with many people from various academic fields, and it couldn't have happened without Will or the incredible team we put together. This has truly been a remarkable research and communication experience that I will carry with me always.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -40,7 +39,6 @@ Sameer Singh - advisor
         <p class="title">Project Manager</p>
         <p>B.S. Computer Science and B.S. Physics 2020</p>
         <p>lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -52,7 +50,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>year lorem ipsum</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -64,7 +61,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>Ph.D. Cognitive Science 2021</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -76,7 +72,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>Ph.D. Mathematics Candidate</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -88,7 +83,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>Ph.D. Artificial Intelligence 2022</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -100,7 +94,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>B.S. Computer Science and Engineering 2020</p>
         <p>"Zotbot and Alexa Prize gave me a unique opportunity to design and build software systems for thousands of real users with the latest language and cloud technologies. I had an amazing team and the freedom to experiment with various creative ideas. These are everything a software engineer could ever ask for. And most importantly, it is a fun project!"</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -112,7 +105,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>B.S. Computer Science and B.A. Business Economics 2021</p>
         <p>"I enjoyed working on this project because of our team's wide variety of backgrounds. I felt like I could learn so much from the other members even though we all had our own specific roles."</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -124,7 +116,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>M.S. Statistics 2020</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -136,7 +127,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>Ph.D. Informatics 2020</p>
         <p>Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -148,7 +138,6 @@ Sameer Singh - advisor
         <p class="title">Team Member</p>
         <p>Ph.D. Computer Science</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -160,7 +149,6 @@ Sameer Singh - advisor
         <p class="title">Chief Marketing Officer</p>
         <p>B.A. Business Administration</p>
         <p>Memory lorem ipsum.</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>

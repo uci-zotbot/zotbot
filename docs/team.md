@@ -70,7 +70,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="/Team Members/Lyuyang (Steven) Hu.jpg" alt="Steven" style="width:100%">
+      <img src="Team Members/Lyuyang (Steven) Hu.jpg" alt="Steven" style="width:100%">
       <div class="container">
         <h2>Lyuyang (Steven) Hu</h2>
         <p class="title">Team Member</p>
@@ -81,7 +81,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="/Team Members/Michelle Liang.jpg" alt="Michelle" style="width:100%">
+      <img src="Team Members/Michelle Liang.jpg" alt="Michelle" style="width:100%">
       <div class="container">
         <h2>Michelle Liang</h2>
         <p class="title">Team Member</p>
@@ -103,7 +103,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="/Team Members/Yao Du.jpg" alt="Yao" style="width:100%">
+      <img src="Team Members/Yao Du.jpg" alt="Yao" style="width:100%">
       <div class="container">
         <h2>Yao Du</h2>
         <p class="title">Team Member</p>
@@ -124,7 +124,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="/Team Members/Jeanette_Mai.jpg" alt="Jeanette" style="width:100%">
+      <img src="Team Members/Jeanette_Mai.jpg" alt="Jeanette" style="width:100%">
       <div class="container">
         <h2>Jeanette Mai</h2>
         <p class="title">Chief Marketing Officer</p>

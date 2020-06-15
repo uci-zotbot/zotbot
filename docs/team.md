@@ -31,7 +31,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Ananth" style="width:100%">
       <div class="container">
         <h2>Ananth G</h2>
         <p class="title">Team Member</p>
@@ -40,7 +39,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Arseny" style="width:100%">
       <div class="container">
         <h2>Arseny Moskvichev</h2>
         <p class="title">Team Member</p>
@@ -50,7 +48,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Daniel" style="width:100%">
       <div class="container">
         <h2>Daniel Agress</h2>
         <p class="title">Team Member</p>
@@ -60,7 +57,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Dheeru" style="width:100%">
       <div class="container">
         <h2>Dheeru Dua</h2>
         <p class="title">Team Member</p>
@@ -114,7 +110,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Yoshitomo" style="width:100%">
       <div class="container">
         <h2>Yoshitomo Matsubara</h2>
         <p class="title">Team Member</p>

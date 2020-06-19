@@ -68,7 +68,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       <img src="Team Members/Professor Sameer Singh.jpg" alt="Sameer" style="width:100%">
       <div class="container">
         <h2>Sameer Singh Ph.D.</h2>
-        <p class="title">Advisor</p>
+        <p class="title">Team Advisor</p>
         <p>Assistant Professor of Computer Science </p>
         <p>at the University of California, Irvine</p>
       </div>

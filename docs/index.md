@@ -1,5 +1,4 @@
 ---
-layout: default
 title: zotbot
 ---
 <h1>Welcome to the official website of UC Irvine’s Alexa Prize team!</h1>

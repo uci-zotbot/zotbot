@@ -125,7 +125,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Xuan" style="width:100%">
       <div class="container">
         <h2>Xuan Liu</h2>
         <p class="title">Team Member</p>
@@ -141,8 +140,5 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
         <p>Ph.D. Computer Science</p>
       </div>
     </div>
-  </div>
-
-
-  
+  </div> 
 </div>

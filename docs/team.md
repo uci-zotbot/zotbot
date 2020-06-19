@@ -76,7 +76,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="William" style="width:100%">
       <div class="container">
         <h2>William Schallock</h2>
         <p class="title">Project Manager</p>

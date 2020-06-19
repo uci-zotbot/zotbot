@@ -2,7 +2,7 @@
 layout: default
 title: zotbot
 ---
-<h1>Welcome to the official website of UC Irvine’s 2019-2020 Alexa Prize team!</h1>
+<h1>Welcome to the official website of UC Irvine’s Alexa Prize team!</h1>
    <img src="Team Members/Homepage.jpg" alt="Team Photo" style="width:100%">
 ## About ZotBot
 

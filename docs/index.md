@@ -2,7 +2,7 @@
 title: zotbot
 ---
 <h1>Welcome to the official website of UC Irvine’s Alexa Prize team!</h1>
-   <img src="Team Members/Homepage.jpg" alt="Team Photo" style="width:100%">
+   <img src="Team Members/Team Photo.jpg" alt="Team Photo" style="width:100%">
 ## About ZotBot
 
 ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020 competition team. ZotBot is using artificial intelligence to create a social bot that can communicate with people on current events and popular topics.

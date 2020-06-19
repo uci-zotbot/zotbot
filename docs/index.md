@@ -1,5 +1,4 @@
 ---
-title: zotbot
 ---
 <h1>Welcome to UC Irvine’s Alexa Prize website!</h1>
    <img src="Team Members/Team Photo.jpg" alt="Team Photo" style="width:100%">

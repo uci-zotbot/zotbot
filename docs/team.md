@@ -20,17 +20,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="Team Members/Jeanette Mai.jpg" alt="Jeanette" style="width:100%">
-      <div class="container">
-        <h2>Jeanette Mai</h2>
-        <p class="title">Chief Marketing Officer</p>
-        <p>B.A. Business Administration 2021</p>
-        <p>"I am so grateful for the opportunity to apply my marketing and design skills in the technology industry. I enjoyed being in a team where the goal was constant innovation and I look forward to doing more marketing within tech".</p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
       <img src="Team Members/Lyuyang (Steven) Hu.jpg" alt="Steven" style="width:100%">
       <div class="container">
         <h2>Lyuyang (Steven) Hu</h2>
@@ -63,6 +52,17 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <img src="Team Members/Jeanette Mai.jpg" alt="Jeanette" style="width:100%">
+      <div class="container">
+        <h2>Jeanette Mai</h2>
+        <p class="title">Chief Marketing Officer</p>
+        <p>B.A. Business Administration 2021</p>
+        <p>"I am so grateful for the opportunity to apply my marketing and design skills in the technology industry. I enjoyed being in a team where the goal was constant innovation and I look forward to doing more marketing within tech".</p>
+      </div>
+    </div>
+  </div>
     <div class="column">
     <div class="card">
       <img src="Team Members/Professor Sameer Singh.jpg" alt="Sameer" style="width:100%">
@@ -71,7 +71,6 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
         <p class="title">Advisor</p>
         <p>Assistant Professor of Computer Science </p>
         <p>at the University of California, Irvine</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>

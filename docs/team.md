@@ -20,6 +20,51 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
+      <img src="Team Members/Jeanette Mai.jpg" alt="Jeanette" style="width:100%">
+      <div class="container">
+        <h2>Jeanette Mai</h2>
+        <p class="title">Chief Marketing Officer</p>
+        <p>B.A. Business Administration</p>
+        <p>"I am so grateful for the opportunity to apply my marketing and design skills in the technology industry. I enjoyed being in a team where the goal was constant innovation and I look forward to doing more marketing within tech".</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="Team Members/Lyuyang (Steven) Hu.jpg" alt="Steven" style="width:100%">
+      <div class="container">
+        <h2>Lyuyang (Steven) Hu</h2>
+        <p class="title">Team Member</p>
+        <p>B.S. Computer Science and Engineering 2020</p>
+        <p>"Zotbot and Alexa Prize gave me a unique opportunity to design and build software systems for thousands of real users with the latest language and cloud technologies. I had an amazing team and the freedom to experiment with various creative ideas. These are everything a software engineer could ever ask for. And most importantly, it is a fun project!"</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="Team Members/Michelle Liang.jpg" alt="Michelle" style="width:100%">
+      <div class="container">
+        <h2>Michelle Liang</h2>
+        <p class="title">Team Member</p>
+        <p>B.S. Computer Science and </p>
+        <p>B.A. Business Economics 2021</p>
+        <p>"I enjoyed working on this project because of our team's wide variety of backgrounds. I felt like I could learn so much from the other members even though we all had our own specific roles."</p>
+      </div>
+    </div>
+  </div>
+   <div class="column">
+    <div class="card">
+      <img src="Team Members/Yao Du.jpg" alt="Yao" style="width:100%">
+      <div class="container">
+        <h2>Yao Du</h2>
+        <p class="title">Team Member</p>
+        <p>Ph.D. Informatics 2020</p>
+        <p>"Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers."</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
       <img src="img1.jpg" alt="William" style="width:100%">
       <div class="container">
         <h2>William Schallock</h2>
@@ -64,29 +109,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       </div>
     </div>
   </div>
-  <div class="column">
-    <div class="card">
-      <img src="Team Members/Lyuyang (Steven) Hu.jpg" alt="Steven" style="width:100%">
-      <div class="container">
-        <h2>Lyuyang (Steven) Hu</h2>
-        <p class="title">Team Member</p>
-        <p>B.S. Computer Science and Engineering 2020</p>
-        <p>"Zotbot and Alexa Prize gave me a unique opportunity to design and build software systems for thousands of real users with the latest language and cloud technologies. I had an amazing team and the freedom to experiment with various creative ideas. These are everything a software engineer could ever ask for. And most importantly, it is a fun project!"</p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img src="Team Members/Michelle Liang.jpg" alt="Michelle" style="width:100%">
-      <div class="container">
-        <h2>Michelle Liang</h2>
-        <p class="title">Team Member</p>
-        <p>B.S. Computer Science and </p>
-        <p>B.A. Business Economics 2021</p>
-        <p>"I enjoyed working on this project because of our team's wide variety of backgrounds. I felt like I could learn so much from the other members even though we all had our own specific roles."</p>
-      </div>
-    </div>
-  </div>
+  
   <div class="column">
     <div class="card">
       <img src="img1.jpg" alt="Xuan" style="width:100%">
@@ -99,32 +122,10 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
   </div>
   <div class="column">
     <div class="card">
-      <img src="Team Members/Yao Du.jpg" alt="Yao" style="width:100%">
-      <div class="container">
-        <h2>Yao Du</h2>
-        <p class="title">Team Member</p>
-        <p>Ph.D. Informatics 2020</p>
-        <p>"Working on the project: conducting transcript review and analysis and collaborative design voice user experience with socialbot developers."</p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
       <div class="container">
         <h2>Yoshitomo Matsubara</h2>
         <p class="title">Team Member</p>
         <p>Ph.D. Computer Science</p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img src="Team Members/Jeanette Mai.jpg" alt="Jeanette" style="width:100%">
-      <div class="container">
-        <h2>Jeanette Mai</h2>
-        <p class="title">Chief Marketing Officer</p>
-        <p>B.A. Business Administration</p>
-        <p>"I am so grateful for the opportunity to apply my marketing and design skills in the technology industry. I enjoyed being in a team where the goal was constant innovation and I look forward to doing more marketing within tech".</p>
       </div>
     </div>
   </div>

@@ -13,7 +13,7 @@ The Amazon Alexa Prize Socialbot Grand Challenge is an engineering competition w
 
 Bots will be accessible to Alexa’s current public users to test and provide teams with feedback. Amazon Alexa has provided $250,000 in research funding, access to Alexa customer reviews, Alexa-enabled devices and free Amazon Web Services (AWS) and Alexa team support. The winning team will receive $500,000 and depending on their score, a $1 million research grant.
 
-For more information on the Alexa Prize visit [here](https://developer.amazon.com/alexaprize)
+For more information on the Alexa Prize visit [here](https://developer.amazon.com/alexaprize).
 
 ### Contact Us
 

@@ -63,6 +63,18 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       </div>
     </div>
   </div>
+    <div class="column">
+    <div class="card">
+      <img src="Team Members/Professor Sameer Singh.jpg" alt="Sameer" style="width:100%">
+      <div class="container">
+        <h2>Sameer Singh Ph.D.</h2>
+        <p class="title">Advisor</p>
+        <p>Assistant Professor of Computer Science </p>
+        <p>at the University of California, Irvine</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
   <div class="column">
     <div class="card">
       <img src="img1.jpg" alt="William" style="width:100%">
@@ -129,18 +141,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       </div>
     </div>
   </div>
-  <div class="column">
-    <div class="card">
-      <img src="Team Members/Professor Sameer Singh.jpg" alt="Sameer" style="width:100%">
-      <div class="container">
-        <h2>Sameer Singh Ph.D.</h2>
-        <p class="title">Advisor</p>
-        <p>Assistant Professor of Computer Science </p>
-        <p>at the University of California, Irvine</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+
 
   
 </div>

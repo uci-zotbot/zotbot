@@ -143,6 +143,9 @@ code {
     display: block;
     text-align: left;
   }
+  .nav-item > a:hover {
+  color: aqua;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

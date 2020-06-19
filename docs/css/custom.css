@@ -62,7 +62,7 @@ a:active {
 }
 
 .title {
-  color: grey;
+  color: #00A7CE;
 }
 
 .button {
@@ -78,7 +78,7 @@ a:active {
 }
 
 .button:hover {
-  background-color: #555;
+  background-color: #00A7CE;
 }
 body > .container {
   padding: 60px 15px 0;
@@ -109,8 +109,8 @@ code {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: #00A7CE;
+  background-color: #00A7CE;
+  color: #232F3E;
 }
 
 /* Add an active class to highlight the current page */

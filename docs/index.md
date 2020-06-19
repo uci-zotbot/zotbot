@@ -57,7 +57,6 @@ body, html {
   </div>
 </div>
 
-<p>Page Content..</p>
 
    <img src="Team Members/Team Photo.jpg" alt="Team Photo" style="width:100%">
 ## About ZotBot

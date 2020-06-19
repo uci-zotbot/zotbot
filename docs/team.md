@@ -24,7 +24,7 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       <div class="container">
         <h2>Jeanette Mai</h2>
         <p class="title">Chief Marketing Officer</p>
-        <p>B.A. Business Administration</p>
+        <p>B.A. Business Administration 2021</p>
         <p>"I am so grateful for the opportunity to apply my marketing and design skills in the technology industry. I enjoyed being in a team where the goal was constant innovation and I look forward to doing more marketing within tech".</p>
       </div>
     </div>

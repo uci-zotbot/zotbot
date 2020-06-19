@@ -81,7 +81,8 @@ The ZotBot team is a diverse group of students made up of undergraduate and grad
       <div class="container">
         <h2>William Schallock</h2>
         <p class="title">Project Manager</p>
-        <p>B.S. Computer Science and B.S. Physics 2020</p>
+        <p>B.S. Computer Science and </p>
+        <p>B.S. Physics 2020</p>
         <p>lorem ipsum.</p>
       </div>
     </div>
